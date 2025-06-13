@@ -1,3 +1,3 @@
 # GMA_app
 
-you can find the code in branches
+you can find the code in branch
