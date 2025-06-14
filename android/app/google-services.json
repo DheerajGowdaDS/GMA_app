@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735855969684",
+    "project_id": "doctor-66c5f",
+    "storage_bucket": "doctor-66c5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735855969684:android:57cb78684f1407d92c7b81",
+        "android_client_info": {
+          "package_name": "com.doctor.panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTu2ap4Cv1zSArCXW7yfwT1DALXBwCuAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735855969684:android:3bd369d7e938117c2c7b81",
+        "android_client_info": {
+          "package_name": "com.example.doctor_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTu2ap4Cv1zSArCXW7yfwT1DALXBwCuAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
